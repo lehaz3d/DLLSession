@@ -1,0 +1,6 @@
+C:\Users\Пользователь\Desktop\WpfSessia\VIN_LIB\obj\Debug\VIN_LIB.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\WpfSessia\VIN_LIB\obj\Debug\VIN_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\WpfSessia\VIN_LIB\bin\Debug\VIN_LIB.dll
+C:\Users\Пользователь\Desktop\WpfSessia\VIN_LIB\bin\Debug\VIN_LIB.pdb
+C:\Users\Пользователь\Desktop\WpfSessia\VIN_LIB\obj\Debug\VIN_LIB.dll
+C:\Users\Пользователь\Desktop\WpfSessia\VIN_LIB\obj\Debug\VIN_LIB.pdb
